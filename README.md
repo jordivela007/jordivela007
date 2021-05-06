@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordivela007
-- 👀 I’m interested in programmation.
+- 👀 I’m interested in developing in Laravel. with WSL2 and laradock.
 - 🌱 I’m currently learning laravel. I'm programmer of PHP, HTML5, Javascript, MySQL
 - 📫 Contact: jordivela007@gmail.com
 
